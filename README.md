@@ -10,4 +10,3 @@ The following libraries need to be imported:
 5. scipy
 6. skimage
 7. torchvision
-8. 
